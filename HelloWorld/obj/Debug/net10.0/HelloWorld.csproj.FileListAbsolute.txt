@@ -1,0 +1,15 @@
+/workspaces/csharp-test/HelloWorld/bin/Debug/net10.0/HelloWorld
+/workspaces/csharp-test/HelloWorld/bin/Debug/net10.0/HelloWorld.deps.json
+/workspaces/csharp-test/HelloWorld/bin/Debug/net10.0/HelloWorld.runtimeconfig.json
+/workspaces/csharp-test/HelloWorld/bin/Debug/net10.0/HelloWorld.dll
+/workspaces/csharp-test/HelloWorld/bin/Debug/net10.0/HelloWorld.pdb
+/workspaces/csharp-test/HelloWorld/obj/Debug/net10.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/csharp-test/HelloWorld/obj/Debug/net10.0/HelloWorld.AssemblyInfoInputs.cache
+/workspaces/csharp-test/HelloWorld/obj/Debug/net10.0/HelloWorld.AssemblyInfo.cs
+/workspaces/csharp-test/HelloWorld/obj/Debug/net10.0/HelloWorld.csproj.CoreCompileInputs.cache
+/workspaces/csharp-test/HelloWorld/obj/Debug/net10.0/HelloWorld.sourcelink.json
+/workspaces/csharp-test/HelloWorld/obj/Debug/net10.0/HelloWorld.dll
+/workspaces/csharp-test/HelloWorld/obj/Debug/net10.0/refint/HelloWorld.dll
+/workspaces/csharp-test/HelloWorld/obj/Debug/net10.0/HelloWorld.pdb
+/workspaces/csharp-test/HelloWorld/obj/Debug/net10.0/HelloWorld.genruntimeconfig.cache
+/workspaces/csharp-test/HelloWorld/obj/Debug/net10.0/ref/HelloWorld.dll
